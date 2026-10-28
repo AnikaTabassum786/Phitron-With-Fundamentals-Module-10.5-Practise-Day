@@ -1,0 +1,1 @@
+string1[i] != string2[i]
