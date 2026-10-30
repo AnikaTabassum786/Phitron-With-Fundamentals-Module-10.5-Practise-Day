@@ -1,1 +1,3 @@
-string1[i] != string2[i]
+
+    // int length1 = strlen(string1);
+    // int length2 = strlen(string2);
